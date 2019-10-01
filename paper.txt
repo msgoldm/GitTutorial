@@ -19,3 +19,6 @@ tips: git wants you to keep your files under a single tree
 	-may want branches
 	-e.g. cuz you want to make a new analysis, without screwing up
 		what people are doing with versions further down the tree
+
+rebase: move the base from which branch branches off to end of a different branch 
+	that you specify
