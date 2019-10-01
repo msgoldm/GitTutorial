@@ -1,3 +1,21 @@
 this is the 1st line
 this is the 2nd line
 
+added a plot
+
+shell basics: ls, cd, mkdir, pwd
+
+To add things: git add filename
+		followed by git committ -m "comments in quotes"
+
+when git commit returns long name, you can just refer to abbreviated unique name
+can use git log --oneline to get shorter version
+
+head: refers to where in the development tree your stuff is
+
+in matlab, be careful because matlab caches stuff (if in wrong directory)
+
+tips: git wants you to keep your files under a single tree
+	-may want branches
+	-e.g. cuz you want to make a new analysis, without screwing up
+		what people are doing with versions further down the tree
